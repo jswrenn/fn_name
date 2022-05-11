@@ -1,6 +1,6 @@
 [package]
 name = "fn_name"
-version = "0.1.0-dev.1"
+version = "0.1.0"
 edition = "2018"
 license = "MIT/Apache-2.0"
 repository = "https://github.com/jswrenn/fn_name"
